@@ -14,3 +14,6 @@ approaches. First implementation was directly from paper but it was confined to 
 to implement it. We used social IQA dataset for this particular approach. The second implementation 
 was for everyday use and used wiki_sentences v2 dataset. These gave output from the queries passed 
 through it. We get a knowledge graph as an outcome of both the implementations.
+
+
+SRC has implementation of paper and knowledgegraph.ipynb is created by us
