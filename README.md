@@ -16,4 +16,4 @@ was for everyday use and used wiki_sentences v2 dataset. These gave output from 
 through it. We get a knowledge graph as an outcome of both the implementations.
 
 
-SRC has implementation of paper and knowledgegraph.ipynb is created by us
+SRC has implementation of Dynamic Neuro Symbolic Knowledge Graph generation for Zero-shot question answering and knowledgegraph.ipynb is created by us
